@@ -38,7 +38,7 @@ public class DB
     //    {
     //        var col = db.GetCollection<DBStru>("rankInfo");
     //        col.EnsureIndex(x => x.cardsInfo, "$.cardsInfo[*]");
-            
+
     //        //var result = col.FindOne(x => ((IList<string>)x.cardsInfo).Contains(newInfo));
 
     //        var result = col.Find(Query.Contains("cardsInfo",newInfo));
